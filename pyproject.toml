@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quantriskengine"
+version = "1.0.0"
+description = "Enterprise Financial Risk Analytics & Algorithmic Trading Platform"
+readme = "README.md"
+requires-python = ">=3.8"

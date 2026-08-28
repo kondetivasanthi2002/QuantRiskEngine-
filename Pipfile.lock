@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "4b825dc98a1e27a3c3e80b2a75d5e21502f6e91f09d8"
+    },
+    "pipfile-spec": 6,
+    "requires": {
+      "python_version": "3.9"
+    }
+  },
+  "default": {
+    "pytest": {
+      "version": "==7.4.0"
+    },
+    "numpy": {
+      "version": "==1.24.3"
+    },
+    "pandas": {
+      "version": "==2.0.3"
+    },
+    "scipy": {
+      "version": "==1.11.1"
+    },
+    "fastapi": {
+      "version": "==0.98.0"
+    },
+    "uvicorn": {
+      "version": "==0.22.0"
+    }
+  }
+}
